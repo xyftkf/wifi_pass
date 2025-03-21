@@ -1,0 +1,6 @@
+{
+    "wifi_ssid": "TPGuest_78F5_28009",
+    "wifi_pass": "Ve*oCn1yeP4fQnUK^7OFNHWAp77zA0&f11111111",
+    "amap_apikey": "3ab223f3f6e8f653e4982871ecca3a73",
+    "amap_apisecret": "cffc7af7a241c0e62af40a70cfde4614"
+}
